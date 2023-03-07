@@ -1,0 +1,1 @@
+Subsequence: 当提到array的subsequence时，大部分情况都不用考虑元素之间的顺序，可以进行排序操作
