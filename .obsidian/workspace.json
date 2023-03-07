@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "6418dca7dea2826a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a37e311af7a7f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb345eee0c646080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "题解/leetcode/300-399/373. Find K Pairs with Smallest Sums.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1c91aa5773c779b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cebdf29de14a196a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e5897c6d45c3da9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76d92e30a16ae406",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#leetcode/heap",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a086f083eb99987d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "de93c28822fd20de",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "140fbb24f53bb051",
+    "type": "split",
+    "children": [
+      {
+        "id": "34b0c883cf7dbec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ba90b85195a043",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "题解/leetcode/300-399/373. Find K Pairs with Smallest Sums.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b157f259d7303f26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "题解/leetcode/300-399/373. Find K Pairs with Smallest Sums.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3968d0aa88a106e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac9a248725a5c6e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "题解/leetcode/300-399/373. Find K Pairs with Smallest Sums.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1e5897c6d45c3da9",
+  "lastOpenFiles": [
+    "题解/leetcode/200-299/251. Flatten 2D Vector.md",
+    "题解/leetcode/2000-2099/2096. Step-By-Step Directions From a Binary Tree Node to Another.md",
+    "题解/leetcode/1600-1699/1676. Lowest Common Ancestor of a Binary Tree IV.md",
+    "题解/leetcode/1600-1699/1650. Lowest Common Ancestor of a Binary Tree III.md",
+    "题解/leetcode/1600-1699/1644. Lowest Common Ancestor of a Binary Tree II.md",
+    "题解/leetcode/1100-1199/1123. Lowest Common Ancestor of Deepest Leaves.md",
+    "题解/leetcode/1200-1299/1257. Smallest Common Region.md",
+    "题解/leetcode/800-899/865. Smallest Subtree with all the Deepest Nodes.md",
+    "题解/leetcode/100-199/112. Path Sum.md",
+    "题解/leetcode/900-999/916. Word Subsets.md",
+    "题解/leetcode/300-399/373. Find K Pairs with Smallest Sums.md",
+    "题解/leetcode/200-299/208.  Implement Trie (Prefix Tree).md",
+    "题解/leetcode/100-199/118. Pascals Triangle.md",
+    "题解/leetcode/1-99/91. Decode Ways.md",
+    "题解/leetcode/1-99/51. N-Queens.md",
+    "题解/leetcode/1-99/46. Permutations.md",
+    "题解/leetcode/1-99/23. Merge k Sorted Lists.md",
+    "题解/leetcode/1-99/1. Two Sum.md",
+    "题解/leetcode/1-99/16. 3Sum Closest.md",
+    "题解/leetcode/600-699/622. Design Circular Queue.md",
+    "题解/leetcode/600-699/623. Add One Row to Tree.md",
+    "题解/leetcode/2000-2099/2055. Plates Between Candles.md",
+    "算法/二分法 Binary Search.md",
+    "题解/leetcode/2400-2499/2416. Sum of Prefix Scores of Strings.md",
+    "题解/leetcode/2400-2499/2419. Longest Subarray With Maximum Bitwise AND.md",
+    "题解/leetcode/600-699/604. Design Compressed String Iterator.md",
+    "题解/leetcode/1400-1499",
+    "题解/leetcode/2600-2699",
+    "题解/leetcode/700-799",
+    "题解/leetcode/400-499",
+    "题解/leetcode/assets/image-20220626225838-zvet59p.png",
+    "题解/leetcode/assets/image-20220701100212-a7vh4rz.png",
+    "题解/leetcode/assets/image-20220629223435-o5gs09l.png",
+    "题解/leetcode/assets/Pasted image 20220828123647.png",
+    "题解/leetcode/assets/image-20220713221759-ce1i7m1.png",
+    "题解/leetcode/assets/image-20220723014351-uq8iy2e.png",
+    "题解/leetcode/assets/image-20220629175902-5vnlbsp.png",
+    "题解/leetcode/assets/image-20220622194205-51tmjrf.png",
+    "题解/leetcode/assets/image-20220622194157-b9cpdq1.png",
+    "题解/leetcode/assets",
+    "题解/leetcode/2300-2399",
+    "题解/leetcode/1100-1199",
+    "题解/leetcode/300-399",
+    "题解/leetcode/1500-1599",
+    "题解/leetcode/800-899",
+    "leetcode/assets/image-20220626225838-zvet59p.png"
+  ]
+}
