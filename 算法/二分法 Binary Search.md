@@ -6,7 +6,7 @@ bisect.bisect_right: 第一个大于的元素的index, 不包含当前元素， 
 
 
 - [[2055. Plates Between Candles]]: bisect_right - bisect_left
-```py
+```python
 class Solution:
     def platesBetweenCandles(self, s: str, queries: List[List[int]]) -> List[int]:
         candlePos = [i for i, c in enumerate(s) if c == '|']        
@@ -31,19 +31,19 @@ class Solution:
 二分搜索的套路比较固定，如果遇到一个算法问题，能够确定 x, f(x), target 分别是什么，并写出单调函数 f 的代码。
 
 
-- [875. Koko Eating Bananas]()
+- [[875. Koko Eating Bananas]]
 这题珂珂吃香蕉的速度就是自变量 x，吃完所有香蕉所需的时间就是单调函数 f(x)，target 就是吃香蕉的时间限制 H。
 
-- [2226. Maximum Candies Allocated to K Children]()
+- [[2226. Maximum Candies Allocated to K Children]]
 每个人能分到的糖果是x, 按x能分配给多少人是单调函数f(x), target就是最少需要分给k个人。（f(x) >= k）
 
-- [1802. Maximum Value at a Given Index in a Bounded Array]()
+- [[1802. Maximum Value at a Given Index in a Bounded Array]]
 x: nums[index]能取的最大值， f(x)以nums[index]为最大值，sum(nums)能取的最小值， target： maxSum
 
 
-- [1539. Kth Missing Positive Number]()
+- [[1539. Kth Missing Positive Number]]
 
-- [1482. Minimum Number of Days to Make m Bouquets]()
+- [[1482. Minimum Number of Days to Make m Bouquets]]
 x: day, f(x)第mid天，能做多少bouquet, target: m
 
 
@@ -56,10 +56,10 @@ x: sweetness, f(x)能分多少块比x大的，target: k+1
 x: capacity, f(x)基于x要装多少天， target: D
 
 
-- [410. Split Array Largest Sum]()
+- [[410. Split Array Largest Sum]]
 x: max sum of all subarray, f(x)基于x 需要生成多少个subarray, target: k
 
-- [400. Nth Digit]()
+- [[400. Nth Digit]]
 
 浮点数二分法
 

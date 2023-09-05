@@ -8,67 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb345eee0c646080",
+            "id": "4f39ed935576e890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "题解/leetcode/300-399/373. Find K Pairs with Smallest Sums.md",
+                "file": "题解/leetcode/000 常用技巧/题型归纳.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ecd48afb021fd774",
+            "id": "53e3375163873856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "题解/leetcode/2300-2399/2386. Find the K-Sum of an Array.md",
+                "file": "题解/leetcode/000 常用技巧/题型归纳.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b7809da95f7766ee",
+            "id": "5122d642a1b9ead4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "解题技巧/overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "406489f2f24eff88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "解题技巧/题型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9157a9bb5fac388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "题解/leetcode/1-99/50. Pow(x, n).md",
+                "file": "题解/leetcode/100-199/138. Copy List with Random Pointer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#二分法",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,6 +97,14 @@
               "type": "tagfolder-view",
               "state": {}
             }
+          },
+          {
+            "id": "9259da19a4e1f0c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -142,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题解/leetcode/1-99/50. Pow(x, n).md",
+                "file": "题解/leetcode/100-199/138. Copy List with Random Pointer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题解/leetcode/1-99/50. Pow(x, n).md",
+                "file": "题解/leetcode/100-199/138. Copy List with Random Pointer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题解/leetcode/1-99/50. Pow(x, n).md"
+                "file": "题解/leetcode/100-199/138. Copy List with Random Pointer.md"
               }
             }
           }
@@ -191,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,41 +188,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1e5897c6d45c3da9",
+  "active": "5122d642a1b9ead4",
   "lastOpenFiles": [
-    "题解/leetcode/2100-2199/2187. Minimum Time to Complete Trips.md",
-    "题解/leetcode/1-99/50. Pow(x, n).md",
+    "题解/leetcode/700-799/713. Subarray Product Less Than K.md",
+    "题解/leetcode/100-199/138. Copy List with Random Pointer.md",
+    "题解/leetcode/000 常用技巧/题型归纳.md",
+    "题解/leetcode/2200-2299/2271. Maximum White Tiles Covered by a Carpet.md",
+    "题解/leetcode/1900-1999/1984. Minimum Difference Between Highest and Lowest of K Scores.md",
+    "题解/leetcode/200-299/200. Number of Islands.md",
     "解题技巧/题型.md",
-    "题解/leetcode/2000-2099/2044. Count Number of Maximum Bitwise-OR Subsets.md",
     "解题技巧/overview.md",
+    "题解/leetcode/2400-2499/2401. Longest Nice Subarray.md",
+    "题解/leetcode/1400-1499/1493. Longest Subarray of 1's After Deleting One Element.md",
+    "题解/leetcode/200-299/239. Sliding Window Maximum.md",
+    "题解/leetcode/300-399/386. Lexicographical Numbers.md",
+    "题解/leetcode/300-399/315. Count of Smaller Numbers After Self.md",
+    "题解/leetcode/300-399/310. Minimum Height Trees.md",
+    "题解/leetcode/300-399/306. Additive Number.md",
+    "题解/leetcode/300-399/304. Range Sum Query 2D - ImmutableM.md",
+    "题解/leetcode/300-399/303. Range Sum Query - ImmutableE.md",
+    "题解/leetcode/2200-2299/2281. Sum of Total Strength of Wizards.md",
+    "题解/leetcode/300-399/325. Maximum Size Subarray Sum Equals k.md",
+    "题解/leetcode/500-599/523. Continuous Subarray Sum.md",
+    "题解/leetcode/1000-1099/1004. Max Consecutive Ones III.md",
+    "题解/leetcode/400-499/487. Max Consecutive Ones II.md",
+    "题解/leetcode/1000-1099/1099. Two Sum Less Than K.md",
+    "题解/leetcode/700-799/732. My Calendar III.md",
+    "题解/leetcode/1200-1299/1248. Count Number of Nice Subarrays.md",
+    "题解/leetcode/900-999/974. Subarray Sums Divisible by K.md",
+    "题解/leetcode/000 常用技巧",
+    "题解/leetcode/2800-2899",
+    "题解/leetcode/2700-2799",
     "__attachment/image-20220701100212-a7vh4rz.png",
     "__attachment/image-20220629223435-o5gs09l.png",
-    "题解/leetcode/2300-2399/2386. Find the K-Sum of an Array.md",
     "__attachment/Pasted image 20220828123647.png",
     "__attachment/image-20220713221759-ce1i7m1.png",
     "__attachment/image-20220629175902-5vnlbsp.png",
     "__attachment/image-20220622194205-51tmjrf.png",
     "__attachment/image-20220622194157-b9cpdq1.png",
-    "题解/leetcode/300-399/373. Find K Pairs with Smallest Sums.md",
-    "题解/leetcode/200-299/251. Flatten 2D Vector.md",
-    "题解/leetcode/2000-2099/2096. Step-By-Step Directions From a Binary Tree Node to Another.md",
-    "题解/leetcode/1600-1699/1676. Lowest Common Ancestor of a Binary Tree IV.md",
-    "题解/leetcode/1600-1699/1650. Lowest Common Ancestor of a Binary Tree III.md",
-    "题解/leetcode/1600-1699/1644. Lowest Common Ancestor of a Binary Tree II.md",
-    "题解/leetcode/1100-1199/1123. Lowest Common Ancestor of Deepest Leaves.md",
-    "题解/leetcode/1200-1299/1257. Smallest Common Region.md",
-    "题解/leetcode/800-899/865. Smallest Subtree with all the Deepest Nodes.md",
-    "题解/leetcode/100-199/112. Path Sum.md",
-    "题解/leetcode/900-999/916. Word Subsets.md",
-    "题解/leetcode/200-299/208.  Implement Trie (Prefix Tree).md",
-    "题解/leetcode/100-199/118. Pascals Triangle.md",
-    "题解/leetcode/1-99/91. Decode Ways.md",
-    "题解/leetcode/1-99/51. N-Queens.md",
-    "题解/leetcode/1-99/46. Permutations.md",
-    "题解/leetcode/1-99/23. Merge k Sorted Lists.md",
-    "题解/leetcode/1-99/1. Two Sum.md",
-    "题解/leetcode/1-99/16. 3Sum Closest.md",
-    "题解/leetcode/600-699/622. Design Circular Queue.md",
     "题解/leetcode/1400-1499",
     "题解/leetcode/2600-2699",
     "题解/leetcode/700-799",
@@ -247,9 +235,6 @@
     "题解/leetcode/assets",
     "题解/leetcode/2300-2399",
     "题解/leetcode/1100-1199",
-    "题解/leetcode/300-399",
-    "题解/leetcode/1500-1599",
-    "题解/leetcode/800-899",
     "leetcode/assets/image-20220626225838-zvet59p.png"
   ]
 }
