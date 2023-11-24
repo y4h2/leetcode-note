@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9a05546a49090765","x":-3,"y":-282,"width":400,"height":400,"type":"file","file":"算法和数据结构/Tree.md"},
+		{"id":"8804e240ab4b4b0a","x":668,"y":-177,"width":400,"height":400,"type":"file","file":"算法和数据结构/AVL Tree.md"},
+		{"id":"198f668dca067a85","x":868,"y":-614,"width":400,"height":400,"type":"file","file":"算法和数据结构/Binary Search Tree 二分搜索树.md"},
+		{"id":"a0f28d7613752351","x":600,"y":400,"width":400,"height":400,"type":"file","file":"算法和数据结构/Trie.md"}
+	],
+	"edges":[
+		{"id":"0bbd09244a1b28e1","fromNode":"9a05546a49090765","fromSide":"right","toNode":"a0f28d7613752351","toSide":"top"},
+		{"id":"ec10498517cd96d3","fromNode":"9a05546a49090765","fromSide":"right","toNode":"8804e240ab4b4b0a","toSide":"left"},
+		{"id":"758a7588e3de9d6e","fromNode":"9a05546a49090765","fromSide":"right","toNode":"198f668dca067a85","toSide":"left"}
+	]
+}
