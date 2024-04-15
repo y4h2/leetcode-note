@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "题解/leetcode/600-699/624. Maximum Distance in Arrays.md",
+                "file": "题解/leetcode/100-199/129. Sum Root to Leaf Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题解/leetcode/600-699/624. Maximum Distance in Arrays.md",
+                "file": "题解/leetcode/100-199/129. Sum Root to Leaf Numbers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题解/leetcode/600-699/624. Maximum Distance in Arrays.md",
+                "file": "题解/leetcode/100-199/129. Sum Root to Leaf Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题解/leetcode/600-699/624. Maximum Distance in Arrays.md"
+                "file": "题解/leetcode/100-199/129. Sum Root to Leaf Numbers.md"
               }
             }
           },
@@ -188,7 +188,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -212,34 +214,37 @@
   },
   "active": "c0735a19dca03526",
   "lastOpenFiles": [
-    "题解/leetcode/400-499/408. Valid Word Abbreviation.md",
-    "题解/leetcode/600-699/624. Maximum Distance in Arrays.md",
-    "题解/leetcode/1500-1599/1561. Maximum Number of Coins You Can Get.md",
-    "题解/leetcode/2900-2999/2917. Find the K-or of an Array.md",
-    "题解/leetcode/1800-1899/1887. Reduction Operations to Make the Array Elements Equal.md",
-    "课程/算法与数据结构高手养成/贪心法.md",
-    "题解/剑指Offer",
-    "课程/算法与数据结构高手养成/overview.md",
-    "解题技巧/overview.md",
-    "算法和数据结构/Trie.md",
-    "算法和数据结构/Segment Tree.md",
-    "算法和数据结构/Monostack 单调栈.md",
+    "题解/leetcode/1700-1799/1759. Count Number of Homogenous Substrings.md",
+    "题解/leetcode/100-199/129. Sum Root to Leaf Numbers.md",
+    "题解/leetcode/3000-3099/3080. Mark Elements on Array by Performing Queries.md",
+    "题解/leetcode/400-499/404. Sum of Left Leaves.md",
+    "题解/leetcode/1000-1099/1024. Video Stitching.md",
+    "题解/leetcode/1000-1099/1026. Maximum Difference Between Node and Ancestor.md",
+    "题解/leetcode/1000-1099/1023. Camelcase Matching.md",
+    "题解/leetcode/1000-1099/1009. Complement of Base 10 Integer.md",
+    "题解/leetcode/1000-1099/1022. Sum of Root To Leaf Binary Numbers.md",
+    "题解/leetcode/900-999/919. Complete Binary Tree Inserter.md",
+    "题解/leetcode/800-899/870. Advantage Shuffle.md",
+    "题解/leetcode/3000-3099/3079. Find the Sum of Encrypted Integers.md",
+    "题解/leetcode/800-899/861. Score After Flipping Matrix.md",
+    "题解/leetcode/3000-3099",
+    "未命名",
+    "题解/leetcode/900-999/935. Knight Dialer.md",
+    "题解/leetcode/900-999/922. Sort Array By Parity II.md",
+    "题解/leetcode/500-599/588. Design In-Memory File System.md",
+    "题解/leetcode/600-699/609. Find Duplicate File in System.md",
+    "题解/leetcode/600-699/605. Can Place Flowers.md",
     "算法和数据结构/Heap 堆.md",
+    "解题技巧/题型.md",
+    "解题技巧/overview.md",
+    "算法和数据结构/Tree.md",
+    "算法和数据结构/Trie.md",
+    "算法和数据结构/Topological Sort 拓扑排序.md",
     "算法和数据结构/Gosper Hack.md",
-    "算法和数据结构/BIT树状数组.md",
-    "算法和数据结构/Binary Tree.md",
-    "算法和数据结构/Graph 图.md",
     "算法和数据结构/000 index.canvas",
-    "算法和数据结构/000 index.md",
-    "题解/leetcode/2900-2999/2910. Minimum Number of Groups to Create a Valid Assignment.md",
-    "题解/leetcode/2900-2999/2905. Find Indices With Index and Value Difference II.md",
-    "题解/leetcode/2900-2999/2903. Find Indices With Index and Value Difference I.md",
-    "题解/leetcode/1800-1899/1877. Minimize Maximum Pair Sum in Array.md",
-    "题解/leetcode/2900-2999/2909. Minimum Sum of Mountain Triplets II.md",
-    "题解/leetcode/2900-2999/2908. Minimum Sum of Mountain Triplets I.md",
-    "题解/leetcode/2800-2899/2899. Last Visited Integers.md",
-    "题解/leetcode/2900-2999/2924. Find Champion II.md",
-    "题解/leetcode/2900-2999/2923. Find Champion I.md",
+    "算法和数据结构/Binary Search 二分法.md",
+    "题解/leetcode-sql",
+    "题解/剑指Offer",
     "题解/leetcode/2900-2999",
     "课程/liuyubobobo/liuyubobobo 1324017f8a4049ceb8454e4c9900d38e/Untitled.png",
     "课程/liuyubobobo/liuyubobobo 1324017f8a4049ceb8454e4c9900d38e/Untitled 9.png",
@@ -255,9 +260,6 @@
     "课程/liuyubobobo",
     "题型",
     "课程/算法与数据结构高手养成",
-    "课程",
-    "算法和数据结构/AVL Tree",
-    "数据结构",
-    "题解/leetcode/000 常用技巧"
+    "课程"
   ]
 }
