@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "题解/leetcode/100-199/129. Sum Root to Leaf Numbers.md",
+                "file": "题解/leetcode/1900-1999/1937. Maximum Number of Points with Cost.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题解/leetcode/100-199/129. Sum Root to Leaf Numbers.md",
+                "file": "题解/leetcode/1900-1999/1937. Maximum Number of Points with Cost.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题解/leetcode/100-199/129. Sum Root to Leaf Numbers.md",
+                "file": "题解/leetcode/1900-1999/1937. Maximum Number of Points with Cost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题解/leetcode/100-199/129. Sum Root to Leaf Numbers.md"
+                "file": "题解/leetcode/1900-1999/1937. Maximum Number of Points with Cost.md"
               }
             }
           },
@@ -214,35 +214,36 @@
   },
   "active": "c0735a19dca03526",
   "lastOpenFiles": [
-    "题解/leetcode/1700-1799/1759. Count Number of Homogenous Substrings.md",
-    "题解/leetcode/100-199/129. Sum Root to Leaf Numbers.md",
+    "题解/leetcode/1900-1999/1981. Minimize the Difference Between Target and Chosen Elements.md",
+    "题解/leetcode/1900-1999/1937. Maximum Number of Points with Cost.md",
+    "题解/leetcode/3100-3199/3112. Minimum Time to Visit Disappearing Nodes.md",
+    "题解/leetcode/3100-3199/3115. Maximum Prime Difference.md",
     "题解/leetcode/3000-3099/3080. Mark Elements on Array by Performing Queries.md",
+    "题解/leetcode/3100-3199/3114. Latest Time You Can Obtain After Replacing Characters.md",
+    "题解/leetcode/3100-3199/3110. Score of a String.md",
+    "题解/leetcode/3100-3199/3105. Longest Strictly Increasing or Strictly Decreasing Subarray.md",
+    "题解/leetcode/未命名.md",
+    "题解/leetcode/3100-3199",
+    "题解/leetcode/900-999/988. Smallest String Starting From Leaf.md",
+    "题解/leetcode/1000-1099/1058. Minimize Rounding Error to Meet Target.md",
+    "题解/leetcode/200-299/255. Verify Preorder Sequence in Binary Search Tree.md",
+    "题解/leetcode/1400-1499/1469. Find All The Lonely Nodes.md",
+    "题解/leetcode/600-699/623. Add One Row to Tree.md",
+    "题解/leetcode/2200-2299/2345. Finding the Number of Visible Mountains.md",
+    "题解/leetcode/2300-2399/2310. Sum of Numbers With Units Digit K.md",
+    "题解/leetcode/2200-2299/2241. Design an ATM Machine.md",
+    "题解/leetcode/2200-2299/2220. Minimum Bit Flips to Convert Number.md",
+    "题解/leetcode/100-199/129. Sum Root to Leaf Numbers.md",
+    "题解/leetcode/1700-1799/1759. Count Number of Homogenous Substrings.md",
     "题解/leetcode/400-499/404. Sum of Left Leaves.md",
     "题解/leetcode/1000-1099/1024. Video Stitching.md",
     "题解/leetcode/1000-1099/1026. Maximum Difference Between Node and Ancestor.md",
     "题解/leetcode/1000-1099/1023. Camelcase Matching.md",
     "题解/leetcode/1000-1099/1009. Complement of Base 10 Integer.md",
     "题解/leetcode/1000-1099/1022. Sum of Root To Leaf Binary Numbers.md",
-    "题解/leetcode/900-999/919. Complete Binary Tree Inserter.md",
-    "题解/leetcode/800-899/870. Advantage Shuffle.md",
-    "题解/leetcode/3000-3099/3079. Find the Sum of Encrypted Integers.md",
-    "题解/leetcode/800-899/861. Score After Flipping Matrix.md",
     "题解/leetcode/3000-3099",
     "未命名",
-    "题解/leetcode/900-999/935. Knight Dialer.md",
-    "题解/leetcode/900-999/922. Sort Array By Parity II.md",
-    "题解/leetcode/500-599/588. Design In-Memory File System.md",
-    "题解/leetcode/600-699/609. Find Duplicate File in System.md",
-    "题解/leetcode/600-699/605. Can Place Flowers.md",
-    "算法和数据结构/Heap 堆.md",
-    "解题技巧/题型.md",
-    "解题技巧/overview.md",
-    "算法和数据结构/Tree.md",
-    "算法和数据结构/Trie.md",
-    "算法和数据结构/Topological Sort 拓扑排序.md",
-    "算法和数据结构/Gosper Hack.md",
     "算法和数据结构/000 index.canvas",
-    "算法和数据结构/Binary Search 二分法.md",
     "题解/leetcode-sql",
     "题解/剑指Offer",
     "题解/leetcode/2900-2999",
@@ -259,7 +260,6 @@
     "课程/liuyubobobo/liuyubobobo 1324017f8a4049ceb8454e4c9900d38e",
     "课程/liuyubobobo",
     "题型",
-    "课程/算法与数据结构高手养成",
-    "课程"
+    "课程/算法与数据结构高手养成"
   ]
 }
