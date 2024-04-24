@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "aad1ed8acae1f470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "题解/leetcode/1100-1199/1137. N-th Tribonacci Number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53e3375163873856",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题解/leetcode/1900-1999/1937. Maximum Number of Points with Cost.md",
+                "file": "题解/leetcode/1100-1199/1137. N-th Tribonacci Number.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题解/leetcode/1900-1999/1937. Maximum Number of Points with Cost.md",
+                "file": "题解/leetcode/1100-1199/1137. N-th Tribonacci Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题解/leetcode/1900-1999/1937. Maximum Number of Points with Cost.md"
+                "file": "题解/leetcode/1100-1199/1137. N-th Tribonacci Number.md"
               }
             }
           },
@@ -212,8 +224,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c0735a19dca03526",
+  "active": "aad1ed8acae1f470",
   "lastOpenFiles": [
+    "题解/leetcode/700-799/752. Open the Lock.md",
+    "题解/leetcode/1100-1199/1137. N-th Tribonacci Number.md",
+    "题解/leetcode/1900-1999/1971. Find if Path Exists in Graph.md",
+    "题解/leetcode/200-299/200. Number of Islands.md",
     "题解/leetcode/1900-1999/1981. Minimize the Difference Between Target and Chosen Elements.md",
     "题解/leetcode/1900-1999/1937. Maximum Number of Points with Cost.md",
     "题解/leetcode/3100-3199/3112. Minimum Time to Visit Disappearing Nodes.md",
@@ -237,10 +253,6 @@
     "题解/leetcode/1700-1799/1759. Count Number of Homogenous Substrings.md",
     "题解/leetcode/400-499/404. Sum of Left Leaves.md",
     "题解/leetcode/1000-1099/1024. Video Stitching.md",
-    "题解/leetcode/1000-1099/1026. Maximum Difference Between Node and Ancestor.md",
-    "题解/leetcode/1000-1099/1023. Camelcase Matching.md",
-    "题解/leetcode/1000-1099/1009. Complement of Base 10 Integer.md",
-    "题解/leetcode/1000-1099/1022. Sum of Root To Leaf Binary Numbers.md",
     "题解/leetcode/3000-3099",
     "未命名",
     "算法和数据结构/000 index.canvas",
