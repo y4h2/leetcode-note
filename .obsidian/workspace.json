@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "解题技巧/题型.md",
+                "file": "题解/leetcode/1200-1299/1299. Replace Elements with Greatest Element on Right Side.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "题解/leetcode/1100-1199/1137. N-th Tribonacci Number.md",
+                "file": "题解/leetcode/2800-2899/2816. Double a Number Represented as a Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bana",
+                "query": "monostack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题解/leetcode/1100-1199/1137. N-th Tribonacci Number.md",
+                "file": "题解/leetcode/1200-1299/1299. Replace Elements with Greatest Element on Right Side.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题解/leetcode/1100-1199/1137. N-th Tribonacci Number.md",
+                "file": "题解/leetcode/1200-1299/1299. Replace Elements with Greatest Element on Right Side.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题解/leetcode/1100-1199/1137. N-th Tribonacci Number.md"
+                "file": "题解/leetcode/1200-1299/1299. Replace Elements with Greatest Element on Right Side.md"
               }
             }
           },
@@ -224,35 +224,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aad1ed8acae1f470",
+  "active": "4f39ed935576e890",
   "lastOpenFiles": [
-    "题解/leetcode/700-799/752. Open the Lock.md",
-    "题解/leetcode/1100-1199/1137. N-th Tribonacci Number.md",
-    "题解/leetcode/1900-1999/1971. Find if Path Exists in Graph.md",
+    "题解/leetcode/100-199/155. Min Stack.md",
+    "算法和数据结构/Monostack 单调栈.md",
+    "算法和数据结构/Topological Sort 拓扑排序.md",
+    "题解/leetcode/1-99/22. Generate Parentheses.md",
+    "算法和数据结构/backtracking.md",
     "题解/leetcode/200-299/200. Number of Islands.md",
-    "题解/leetcode/1900-1999/1981. Minimize the Difference Between Target and Chosen Elements.md",
-    "题解/leetcode/1900-1999/1937. Maximum Number of Points with Cost.md",
-    "题解/leetcode/3100-3199/3112. Minimum Time to Visit Disappearing Nodes.md",
-    "题解/leetcode/3100-3199/3115. Maximum Prime Difference.md",
-    "题解/leetcode/3000-3099/3080. Mark Elements on Array by Performing Queries.md",
-    "题解/leetcode/3100-3199/3114. Latest Time You Can Obtain After Replacing Characters.md",
-    "题解/leetcode/3100-3199/3110. Score of a String.md",
-    "题解/leetcode/3100-3199/3105. Longest Strictly Increasing or Strictly Decreasing Subarray.md",
-    "题解/leetcode/未命名.md",
+    "题解/leetcode/100-199/113. Path Sum II.md",
+    "题解/leetcode/1-99/79. Word Search.md",
+    "题解/leetcode/1-99/59. Spiral Matrix II.md",
+    "题解/leetcode/100-199/128. Longest Consecutive Sequence.md",
+    "题解/leetcode/1700-1799/1743. Restore the Array From Adjacent Pairs.md",
+    "题解/leetcode/1800-1899/1801. Number of Orders in the Backlog.md",
+    "算法和数据结构/Heap 堆.md",
+    "算法和数据结构/Trie.md",
+    "算法和数据结构/Union Find.md",
+    "算法和数据结构/Two Pointer 双指针.md",
+    "算法和数据结构/Sliding Window滑动窗口.md",
+    "算法和数据结构/Set 集合.md",
+    "算法和数据结构/Segment Tree.md",
+    "算法和数据结构/Linked List 链表.md",
+    "算法和数据结构/Binary Tree.md",
+    "算法和数据结构/Binary Search Tree 二分搜索树.md",
+    "算法和数据结构/Binary Search 二分法.md",
+    "算法和数据结构/Gosper Hack.md",
+    "题解/leetcode/2800-2899/2844. Minimum Operations to Make a Special Number.md",
+    "题解/leetcode/2800-2899/2855. Minimum Right Shifts to Sort the Array.md",
     "题解/leetcode/3100-3199",
-    "题解/leetcode/900-999/988. Smallest String Starting From Leaf.md",
-    "题解/leetcode/1000-1099/1058. Minimize Rounding Error to Meet Target.md",
-    "题解/leetcode/200-299/255. Verify Preorder Sequence in Binary Search Tree.md",
-    "题解/leetcode/1400-1499/1469. Find All The Lonely Nodes.md",
-    "题解/leetcode/600-699/623. Add One Row to Tree.md",
-    "题解/leetcode/2200-2299/2345. Finding the Number of Visible Mountains.md",
-    "题解/leetcode/2300-2399/2310. Sum of Numbers With Units Digit K.md",
-    "题解/leetcode/2200-2299/2241. Design an ATM Machine.md",
-    "题解/leetcode/2200-2299/2220. Minimum Bit Flips to Convert Number.md",
-    "题解/leetcode/100-199/129. Sum Root to Leaf Numbers.md",
-    "题解/leetcode/1700-1799/1759. Count Number of Homogenous Substrings.md",
-    "题解/leetcode/400-499/404. Sum of Left Leaves.md",
-    "题解/leetcode/1000-1099/1024. Video Stitching.md",
     "题解/leetcode/3000-3099",
     "未命名",
     "算法和数据结构/000 index.canvas",
