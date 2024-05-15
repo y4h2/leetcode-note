@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "题解/leetcode/1200-1299/1299. Replace Elements with Greatest Element on Right Side.md",
+                "file": "题解/leetcode/2800-2899/2812. Find the Safest Path in a Grid.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monostack",
+                "query": "banana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题解/leetcode/1200-1299/1299. Replace Elements with Greatest Element on Right Side.md",
+                "file": "题解/leetcode/2800-2899/2812. Find the Safest Path in a Grid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题解/leetcode/1200-1299/1299. Replace Elements with Greatest Element on Right Side.md",
+                "file": "题解/leetcode/2800-2899/2812. Find the Safest Path in a Grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题解/leetcode/1200-1299/1299. Replace Elements with Greatest Element on Right Side.md"
+                "file": "题解/leetcode/2800-2899/2812. Find the Safest Path in a Grid.md"
               }
             }
           },
@@ -226,32 +225,32 @@
   },
   "active": "4f39ed935576e890",
   "lastOpenFiles": [
-    "题解/leetcode/100-199/155. Min Stack.md",
-    "算法和数据结构/Monostack 单调栈.md",
-    "算法和数据结构/Topological Sort 拓扑排序.md",
-    "题解/leetcode/1-99/22. Generate Parentheses.md",
-    "算法和数据结构/backtracking.md",
-    "题解/leetcode/200-299/200. Number of Islands.md",
-    "题解/leetcode/100-199/113. Path Sum II.md",
-    "题解/leetcode/1-99/79. Word Search.md",
-    "题解/leetcode/1-99/59. Spiral Matrix II.md",
-    "题解/leetcode/100-199/128. Longest Consecutive Sequence.md",
-    "题解/leetcode/1700-1799/1743. Restore the Array From Adjacent Pairs.md",
-    "题解/leetcode/1800-1899/1801. Number of Orders in the Backlog.md",
+    "题解/leetcode/800-899/875. Koko Eating Bananas.md",
+    "题解/leetcode/2800-2899/2812. Find the Safest Path in a Grid.md",
+    "题解/leetcode/2000-2099/2093. Minimum Cost to Reach City With Discounts.md",
+    "题解/leetcode/700-799/787. Cheapest Flights Within K Stops.md",
+    "题解/leetcode/800-899/857. Minimum Cost to Hire K Workers.md",
+    "题解/leetcode/2700-2799/2714. Find Shortest Path with K Hops.md",
+    "题解/leetcode/2400-2499/2473. Minimum Cost to Buy Apples.md",
+    "题解/leetcode/2600-2699/2642. Design Graph With Shortest Path Calculator.md",
+    "题解/leetcode/1300-1399/1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance.md",
+    "题解/leetcode/700-799/743. Network Delay Time.md",
+    "题解/leetcode/1500-1599/1514. Path with Maximum Probability.md",
+    "题解/leetcode/1500-1599/1584. Min Cost to Connect All Points.md",
     "算法和数据结构/Heap 堆.md",
-    "算法和数据结构/Trie.md",
-    "算法和数据结构/Union Find.md",
-    "算法和数据结构/Two Pointer 双指针.md",
-    "算法和数据结构/Sliding Window滑动窗口.md",
-    "算法和数据结构/Set 集合.md",
-    "算法和数据结构/Segment Tree.md",
     "算法和数据结构/Linked List 链表.md",
-    "算法和数据结构/Binary Tree.md",
-    "算法和数据结构/Binary Search Tree 二分搜索树.md",
-    "算法和数据结构/Binary Search 二分法.md",
     "算法和数据结构/Gosper Hack.md",
-    "题解/leetcode/2800-2899/2844. Minimum Operations to Make a Special Number.md",
-    "题解/leetcode/2800-2899/2855. Minimum Right Shifts to Sort the Array.md",
+    "算法和数据结构/000 index.md",
+    "题解/leetcode/600-699/634. Find the Derangement of An Array.md",
+    "题解/leetcode/3000-3099/3095. Shortest Subarray With OR at Least K I.md",
+    "题解/leetcode/3000-3099/3097. Shortest Subarray With OR at Least K II.md",
+    "算法和数据结构/bit operation.md",
+    "题解/leetcode/3000-3099/3075. Maximize Happiness of Selected Children.md",
+    "题解/leetcode/3100-3199/3106. Lexicographically Smallest String After Operations With Constraint.md",
+    "题解/leetcode/3100-3199/3101. Count Alternating Subarrays.md",
+    "算法和数据结构/array.md",
+    "题解/leetcode/3100-3199/3137. Minimum Number of Operations to Make Word K-Periodic.md",
+    "题解/leetcode/3100-3199/3136. Valid Word.md",
     "题解/leetcode/3100-3199",
     "题解/leetcode/3000-3099",
     "未命名",
